@@ -1,5 +1,5 @@
 
-# Computer Vision: Assignment 1 ( Image Filtering )
+# Image Filtering
 
 An image filtering is a technique through which size, colors, shading and other characteristics of an image are altered. An image filter is used to transform the image using different graphical editing techniques. Image filters are usually done through graphic design and editing software.
 
